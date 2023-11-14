@@ -1,0 +1,6 @@
+[DB Connect]
+IP : 10.10.10.10
+PORT : 3306
+ID : test
+PW : qwer1234
+DB Name : web1
