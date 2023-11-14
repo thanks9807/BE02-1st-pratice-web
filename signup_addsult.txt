@@ -1,0 +1,3 @@
+addsult(){
+	return 0;
+}
